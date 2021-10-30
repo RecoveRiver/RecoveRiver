@@ -1,4 +1,4 @@
-### Hi there 👋
+### RecoveRiver Eating Disorder Recovery Guide Mobile Application
 
 <!--
 **RecoveRiver/RecoveRiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
